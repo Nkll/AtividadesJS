@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "dev": "vite --open"
+  },
+  "dependencies": {
+    "sweetalert2": "^11.6.8",
+    "vite": "^3.2.3"
+  }
+}
